@@ -40,6 +40,7 @@ class Equal_String{
 			}
 		}
 		if(top_a==top_b){
+			System.out.println("Valid String");
 			System.out.println("a:"+(top_a+1)+","+"b:"+(top_b+1));
 		}
 		else{
